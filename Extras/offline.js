@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1627726607,
+	"version": 1627731410,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,7 +20,6 @@
 		"images/s2-sheet0.png",
 		"images/s1-sheet0.png",
 		"images/leaderboard-sheet0.png",
-		"images/sprite2-sheet0.png",
 		"images/default-sheet0.png",
 		"images/grassbase.png",
 		"images/dirtbase.png",
@@ -63,6 +62,10 @@
 		"images/stage4button-sheet0.png",
 		"images/stage1button-sheet0.png",
 		"images/group2-sheet0.png",
+		"images/stage-sheet0.png",
+		"images/stage2-sheet0.png",
+		"images/stage3-sheet0.png",
+		"images/stage4-sheet0.png",
 		"media/bgm-all.m4a",
 		"icon-16.png",
 		"icon-32.png",
