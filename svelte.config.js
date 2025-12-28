@@ -10,10 +10,9 @@ const config = {
 		adapter: adapter({
 			pages: 'build',
 			fallback: undefined,
-			strict: false,
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? '' : `/hub`
+			base: ''
 		}
 	}
 };
